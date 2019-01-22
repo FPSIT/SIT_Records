@@ -13,7 +13,7 @@
 
 BEST PRACTICES
 
-Files in this dropbox folder should be organized into their related folder
+Files in this git repository should be organized into their related folder
 The creation of new folders should respect content defined in the DIRECTORY STRUCTURE section.
 New folders should not have ambiguous names and should not be more than three or four levels deep 
 from the top level directory.
